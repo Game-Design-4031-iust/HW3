@@ -33,7 +33,7 @@
 | `A`        | Turn Left                        |
 | `D`        | Turn Right                       |
 | `G`        | Toggle Headlights (On/Off)       |
-| `Space`    | Boost Siren Light + Activate Sound |
+| `Space`    | Activate Siren Light + Activate Sound |
 
 ---
 
