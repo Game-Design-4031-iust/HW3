@@ -19,7 +19,7 @@
 3. **Police Siren (Lights + Sound)** 🚨  
    - **Always-on flashing lights.**  
    - Press **Space** to:  
-     - Increase the siren's light intensity.  
+     - Activate the siren's light.  
      - Activate the police siren sound.
 
 ---
