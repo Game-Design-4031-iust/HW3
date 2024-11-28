@@ -76,9 +76,6 @@
 ---
 
 ## **✨ Suggested Improvements**
-- Add a **Particle System** for effects like smoke or dust.  
-- Simulate **night mode** for a more immersive experience.  
-- Create a **racing track** with obstacles for added complexity.  
 - Introduce **handbrake functionality** for sharper turns.
 
 ---
